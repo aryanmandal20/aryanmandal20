@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @aryanmandal20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I'm Aryan!
 
-<!---
-aryanmandal20/aryanmandal20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Beginner Explorer in AI, Web3 & Cybersecurity**
+
+### 🛠 About Me
+- 🔍 Learning **Web3 Security & Smart Contract Basics**
+- 🤖 Exploring AI-powered tools for **Blockchain Investigations**
+- 🏴‍☠️ Practicing Ethical Hacking & OSINT
+- 📚 Pursuing **BCA (IGNOU) | Focus: Cybersecurity**
+
+### 💡 My Learning Journey
+- 🔗 **Understanding Web3 OSINT** – How to analyze blockchain transactions
+- 🛡 **Smart Contract Security** – Basics of auditing & common vulnerabilities
+- 🧠 **AI x Cybersecurity** – Learning how ML can improve security
+
+---
+⭐ **Follow my journey as I explore and build new projects!**
