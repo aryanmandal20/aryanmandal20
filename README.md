@@ -6,7 +6,6 @@
 - 🔍 Learning **Web3 Security & Smart Contract Basics**
 - 🤖 Exploring AI-powered tools for **Blockchain Investigations**
 - 🏴‍☠️ Practicing Ethical Hacking & OSINT
-- 📚 Pursuing **BCA (IGNOU) | Focus: Cybersecurity**
 
 ### 💡 My Learning Journey
 - 🔗 **Understanding Web3 OSINT** – How to analyze blockchain transactions
